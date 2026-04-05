@@ -1,0 +1,24 @@
+{
+  "maps": [
+    {
+      "name": "Monster Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster1.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster1.zip"
+    },
+    {
+      "name": "Monster Battle",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster2.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster2.zip"
+    },
+	{
+      "name": "Fun Monster",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster3.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster3.zip"
+    },
+	{
+      "name": "Monster Playtime",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster4.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster4.zip"
+    }
+  ]
+}
