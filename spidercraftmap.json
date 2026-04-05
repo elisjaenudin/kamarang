@@ -1,0 +1,19 @@
+{
+  "maps": [
+    {
+      "name": "Spider in City",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider1.zip"
+    },
+    {
+      "name": "Iron in City",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider2.zip"
+    },
+	{
+      "name": "Hero Crafting",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider3.zip"
+    }
+  ]
+}
