@@ -1,0 +1,19 @@
+{
+  "maps": [
+    {
+      "name": "Spider Swing City",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spiderhero1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider1.zip"
+    },
+    {
+      "name": "Armor in town",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spiderhero2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider2.zip"
+    },
+	{
+      "name": "Hero Skill Power",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spiderhero3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spider3.zip"
+    }
+  ]
+}
